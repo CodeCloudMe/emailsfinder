@@ -148,7 +148,7 @@ var SampleApp = function() {
 
     }
 
-
+    };
     /**
      *  Initialize the server (express) and create the routes and register
      *  the handlers.
@@ -228,4 +228,4 @@ function download(url, callback) {
 }
 
 
-
+//end
